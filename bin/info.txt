@@ -1,0 +1,7 @@
+Mein großes AlgoEngin Projekt
+1. Fehler finden beim Autos verschieben
+2. skalierbarkeit des Spielfeldes
+3. Analoge Reduktion der Autos
+4. schauen ob es ohne treeset geht so wie der binomial dyn algo
+5. Graph weben für nach Ursprung ankommen
+Ach es muss noch ein Auto zwischenstellbar sein auf Eiswagen Weg 
